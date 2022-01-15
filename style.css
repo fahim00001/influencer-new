@@ -43,7 +43,7 @@ body{
     text-decoration: none;
     color: aliceblue;
     background-color:  #E02C6D;
-    padding: 10px 24px;
+    padding: 10px 30px;
     border-radius: 41px;
    position: relative;
    top: 35px;
@@ -54,7 +54,7 @@ body{
     font-size: 16px;
 }
  .booking-button:hover{
-     box-shadow:0px 4px 29px 0px  #e02c6e67;
+     box-shadow:1px 4px 35px 1px  #e02c6eb4;
      ;
     font-size: 17px;
  }
