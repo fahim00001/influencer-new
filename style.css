@@ -142,7 +142,8 @@ hr{
     text-align: right;
     font-weight: 700;
     font-size: 16px;
-}
+} 
+/************************************* upcoming product section ****************************/
 .upcomming-product{
     display: flex;
     justify-content: space-between;
@@ -218,7 +219,8 @@ color: #00acee;
 color: #FF0000;
 }
 
-
+ /******************************************** media quary **************
+ ***********************************************/
 @media only screen and (max-width:688px) {
  .container{
      width: 50%;
